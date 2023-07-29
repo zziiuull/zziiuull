@@ -6,7 +6,7 @@
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools: </h3>
 
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=zziiuull&show_icons=true&locale=en&theme=dracula" alt="zziiuull" />
 
