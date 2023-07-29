@@ -2,7 +2,7 @@
 <h3 align="center">An ongoing developer from <strong>Brazil</strong></h3>
 <br><br>
 
-- 🌱 I’m currently learning **JavaScript, Python and C++**
+- 🌱 I’m currently learning **JavaScript, Python and C**
 
 <hr>
 
