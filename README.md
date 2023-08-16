@@ -8,20 +8,20 @@
 
 <h3 align="left">Languages and Tools: </h3>
 
-<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=zziiuull&show_icons=true&locale=en&theme=dracula" alt="zziiuull" />
+<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=zziiuull&show_icons=true&locale=en&theme=dracula" alt="zziiuull"/>
 
 <div align="center">
-  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zziiuull&show_icons=true&locale=en&layout=compact&theme=dracula" alt="zziiuull"/>
   <br><br>
   
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />  
+  <img height="80" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="80" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="80" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="80" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="80" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />  
           
 </div>
+ <br><br> <br><br>
 <hr>
 
 <h3 align="left">Connect with me:</h3>
