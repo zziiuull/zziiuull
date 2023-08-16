@@ -8,10 +8,10 @@
 
 <h3 align="left">Languages and Tools: </h3>
 
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=zziiuull&show_icons=true&locale=en&theme=dracula" alt="zziiuull" />
+<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=zziiuull&show_icons=true&locale=en&theme=dracula" alt="zziiuull" />
 
 <div align="center">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zziiuull&show_icons=true&locale=en&layout=compact&theme=dracula" alt="zziiuull"/>
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zziiuull&show_icons=true&locale=en&layout=compact&theme=dracula" alt="zziiuull"/>
   <br><br>
   
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
