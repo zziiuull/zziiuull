@@ -8,8 +8,6 @@
 
 <h3 align="left">Languages and Tools: </h3>
 
-<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=zziiuull&show_icons=true&locale=en&theme=dracula" alt="zziiuull"/>
-
 <div align="center">
   <br><br>
   
