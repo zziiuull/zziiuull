@@ -19,7 +19,7 @@
   <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />  
           
 </div>
- <br><br> <br><br>
+ <br>
 <hr>
 
 <h3 align="left">Connect with me:</h3>
