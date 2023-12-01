@@ -8,7 +8,7 @@
 
 <h3 align="left">Languages and Tools: </h3>
 
-<div align="center">
+<div align="left">
   <br><br>
   
   <img height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
