@@ -1,5 +1,4 @@
 <h1 align="center">Hello👋, I'm Luiz Henrique do Nascimento Silva</h1>
-<h3 align="center">An ongoing developer from <strong>Brazil</strong></h3>
 <br><br>
 
 - 🌱 I’m currently learning **JavaScript, Python and C**
