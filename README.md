@@ -1,9 +1,6 @@
-<h1 align="center">Hello👋, I'm Luiz Henrique do Nascimento Silva</h1>
-<br><br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=3&height=200&section=header&text=Hello👋,%20I'm%20Luiz%20Henrique%20do%20Nascimento%20Silva&fontSize=30&fontColor=0"/>
 
-- 🌱 I’m currently learning **Java and C**
-
-<hr>
+<br>
 
 <h3 align="left">Languages and Tools: </h3>
 
@@ -17,9 +14,9 @@
   <img height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="80" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-          
-          
-          
+  <img height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+              
 </div>
  <br>
 <hr>
