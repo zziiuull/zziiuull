@@ -1,31 +1,33 @@
-<h1 align="center">Hello👋, I'm Luiz Henrique do Nascimento Silva</h1>
+# Hello👋, I'm Luiz Henrique do Nascimento Silva
 
-<br>
+## About me
+🎓  Software Engineering Bachelor's Student
 
-<h3 align="left">Languages and Tools: </h3>
+💻 Full Stack Developer  
 
-<div align="left">
-  <br><br>
-  
-  <img height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="80" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-          
-              
-</div>
- <br>
-<hr>
+🚀 Developing myself every day  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<div>
-    <a href="https://www.instagram.com/luizhnsc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&locale=en" alt=""></a>
-    <a href="https://www.linkedin.com/in/luizhenriquedonascimentosilva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&locale=en" alt=""></a>
-</div>
+## Technologies and Tools: 
+![Python](https://img.shields.io/badge/Python-343a40?style=for-the-badge&logo=python&logoColor=White)
+![C](https://img.shields.io/badge/C-343a40?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-343a40?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-343a40?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Node.js](https://img.shields.io/badge/Node.js-343a40?style=for-the-badge&logo=node.js&logoColor=339933)
+![CSS](https://img.shields.io/badge/CSS3-343a40?style=for-the-badge&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoSize=auto&color=343a40)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoSize=auto&color=343a40)
+![Kotlin](https://img.shields.io/badge/Kotlin-343a40?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-343a40?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Spring](https://img.shields.io/badge/Spring-343a40?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoSize=auto&color=343a40&logoColor=#4169E1)
+![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-343a40?style=for-the-badge&logo=oracle&logoColor=fff)
+![GO](https://img.shields.io/badge/GO-black?style=for-the-badge&logo=go&logoSize=auto&color=343a40)
+
+## Languages  
+- Portuguese (Native)  
+- English (Advanced) 
+
+## Connect with me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23FF0069?style=for-the-badge&logo=instagram)](https://www.instagram.com/luizhnsc/)
+[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin-white&logoColor=fff&)](https://www.linkedin.com/in/luizhenriquedonascimentosilva/)
+[![Email](https://img.shields.io/badge/Email-edf2f4?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:luizhncs@gmail.com)
