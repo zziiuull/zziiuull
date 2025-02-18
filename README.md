@@ -1,13 +1,13 @@
-# Hello👋, I'm Luiz Henrique do Nascimento Silva
+# I'm Luiz Henrique do Nascimento Silva 👋
 
-## About me
+## 💡 About me
 🎓  Software Engineering Bachelor's Student
 
 💻 Full Stack Developer  
 
 🚀 Developing myself every day  
 
-## Technologies and Tools: 
+## 🛠️ Technologies and Tools: 
 ![Python](https://img.shields.io/badge/Python-343a40?style=for-the-badge&logo=python&logoColor=White)
 ![C](https://img.shields.io/badge/C-343a40?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-343a40?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -23,11 +23,11 @@
 ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-343a40?style=for-the-badge&logo=oracle&logoColor=fff)
 ![GO](https://img.shields.io/badge/GO-black?style=for-the-badge&logo=go&logoSize=auto&color=343a40)
 
-## Languages  
+## 🌍 Languages  
 - Portuguese (Native)  
 - English (Advanced) 
 
-## Connect with me:
+## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23FF0069?style=for-the-badge&logo=instagram)](https://www.instagram.com/luizhnsc/)
 [![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin-white&logoColor=fff&)](https://www.linkedin.com/in/luizhenriquedonascimentosilva/)
 [![Email](https://img.shields.io/badge/Email-edf2f4?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:luizhncs@gmail.com)
