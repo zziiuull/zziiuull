@@ -31,3 +31,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23FF0069?style=for-the-badge&logo=instagram)](https://www.instagram.com/luizhnsc/)
 [![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin-white&logoColor=fff&)](https://www.linkedin.com/in/luizhenriquedonascimentosilva/)
 [![Email](https://img.shields.io/badge/Email-edf2f4?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:luizhncs@gmail.com)
+
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zziiuull/zziiuull/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zziiuull/zziiuull/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/zziiuull/zziiuull/output/github-snake.svg" />
+</picture>
