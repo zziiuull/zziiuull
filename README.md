@@ -32,6 +32,11 @@
 [![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin-white&logoColor=fff&)](https://www.linkedin.com/in/luizhenriquedonascimentosilva/)
 [![Email](https://img.shields.io/badge/Email-edf2f4?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:luizhncs@gmail.com)
 
+## Download my resume:
+[![Resume-eng](https://img.shields.io/badge/Resume--eng-black?style=for-the-badge&logo=files&logoSize=auto&color=343a40)](https://drive.google.com/file/d/1Z-8RHcv6FLqIRXdtAnyCMt2XSxL6p40t/view?usp=sharing)
+[![Resume-pt](https://img.shields.io/badge/Resume--pt-black?style=for-the-badge&logo=files&logoSize=auto&color=343a40)](https://drive.google.com/file/d/1f93bG70BvmVAalwvX4poM5FutNRKtE4T/view?usp=sharing)
+
+
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zziiuull/zziiuull/output/github-snake-dark.svg" />
