@@ -22,6 +22,13 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoSize=auto&color=343a40&logoColor=#4169E1)
 ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-343a40?style=for-the-badge&logo=oracle&logoColor=fff)
 ![GO](https://img.shields.io/badge/GO-black?style=for-the-badge&logo=go&logoSize=auto&color=343a40)
+![MongoDB](https://img.shields.io/badge/MongoDB-343a40?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Express](https://img.shields.io/badge/Express-343a40?style=for-the-badge&logo=express&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-343a40?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-343a40?style=for-the-badge&logo=redux&logoColor=764ABC)
+![jQuery](https://img.shields.io/badge/jQuery-343a40?style=for-the-badge&logo=jquery&logoColor=0769AD)
+![NoSQL](https://img.shields.io/badge/NoSQL-343a40?style=for-the-badge&logo=nosql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-343a40?style=for-the-badge&logo=git&logoColor=F05032)
 
 ## 🌍 Languages  
 - Portuguese (Native)  
@@ -33,8 +40,8 @@
 [![Email](https://img.shields.io/badge/Email-edf2f4?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:luizhncs@gmail.com)
 
 ## Download my resume:
-[![Resume-eng](https://img.shields.io/badge/Resume--eng-black?style=for-the-badge&logo=files&logoSize=auto&color=343a40)](https://drive.google.com/file/d/1Z-8RHcv6FLqIRXdtAnyCMt2XSxL6p40t/view?usp=sharing)
-[![Resume-pt](https://img.shields.io/badge/Resume--pt-black?style=for-the-badge&logo=files&logoSize=auto&color=343a40)](https://drive.google.com/file/d/1f93bG70BvmVAalwvX4poM5FutNRKtE4T/view?usp=sharing)
+[![Resume-eng](https://img.shields.io/badge/Resume--eng-black?style=for-the-badge&logo=files&logoSize=auto&color=343a40)](https://drive.google.com/file/d/1rzXMQl63m39Em141mmIr9l-h6u6j33d_/view?usp=drive_link)
+[![Resume-pt](https://img.shields.io/badge/Resume--pt-black?style=for-the-badge&logo=files&logoSize=auto&color=343a40)](https://drive.google.com/file/d/1A5HZXuGJh7nMUNrg55E_Odo5eUSehIum/view?usp=drive_link)
 
 
 ---
